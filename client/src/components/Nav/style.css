@@ -1,11 +1,13 @@
-#search, #saved {
-    color: #ffffff;
+#search,
+#saved {
+  color: brown;
 }
 
-#search:hover, #saved:hover {
-    color: #e74944;
+#search:hover,
+#saved:hover {
+  color: blue;
 }
 
 #nav {
-    background-color: black;
+  background-color: lightsalmon;
 }
